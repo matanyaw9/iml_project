@@ -5,3 +5,4 @@ venv/
 *.pyo 
 .DS_Store 
 *.csv
+Tal_*
