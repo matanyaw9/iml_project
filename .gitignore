@@ -7,3 +7,5 @@ venv/
 *.csv
 *ref*
 *.xlsx
+*.gz
+*.txt
